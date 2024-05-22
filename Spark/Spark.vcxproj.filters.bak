@@ -98,9 +98,6 @@
     <ClCompile Include="Spark\Core\Screen.cpp">
       <Filter>Spark\Source Files\Core</Filter>
     </ClCompile>
-    <ClCompile Include="Spark\Gameplay\GameInstance.cpp">
-      <Filter>Spark\Source Files\Gameplay</Filter>
-    </ClCompile>
     <ClCompile Include="Game\TestGameInstance.cpp">
       <Filter>Spark\Source Files</Filter>
     </ClCompile>
@@ -138,9 +135,6 @@
     </ClInclude>
     <ClInclude Include="Spark\Core\Screen.h">
       <Filter>Spark\Header Files\Core</Filter>
-    </ClInclude>
-    <ClInclude Include="Spark\Gameplay\GameInstance.h">
-      <Filter>Spark\Header Files\Gameplay</Filter>
     </ClInclude>
     <ClInclude Include="Common.h">
       <Filter>Spark</Filter>

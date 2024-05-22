@@ -169,7 +169,7 @@
     <ClCompile Include="Game\main.cpp" />
     <ClCompile Include="Game\TestGameInstance.cpp" />
     <ClCompile Include="Spark\Core\Application.cpp" />
-    <ClCompile Include="Spark\Gameplay\GameInstance.cpp" />
+    <ClCompile Include="Spark\Core\GameInstance.cpp" />
     <ClCompile Include="Spark\Core\Screen.cpp" />
     <ClCompile Include="Spark\Level\ILevelBase.cpp" />
     <ClCompile Include="Spark\Level\LevelManager.cpp" />
@@ -185,7 +185,7 @@
     <ClInclude Include="Common.h" />
     <ClInclude Include="Game\TestGameInstance.h" />
     <ClInclude Include="Spark\Core\Application.h" />
-    <ClInclude Include="Spark\Gameplay\GameInstance.h" />
+    <ClInclude Include="Spark\Core\GameInstance.h" />
     <ClInclude Include="Spark\Core\Screen.h" />
     <ClInclude Include="Spark\Level\ILevelBase.h" />
     <ClInclude Include="Spark\Level\LevelManager.h" />
